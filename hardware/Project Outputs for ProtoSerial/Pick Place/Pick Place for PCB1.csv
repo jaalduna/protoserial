@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\AD18\Projects\ProtoSerial\Project Outputs for ProtoSerial\Pick Place\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/12/18
+Time:       21:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Height(mm)"
+"U1","CP2102N-A01-GQFN24","TopLayer","SLAB-QFN-24-2550x2550TP_A_V","14.2500","11.0500","270","USBXpress(TM) Family, 4 GPIOs, 2.2 to 3.6 V, -40 to 85 degC, 24-Pin QFN, RoHS","0.8000"
+"P3","Header 4","TopLayer","HDR1X4","23.4000","20.0580","180","Header, 4-Pin","0.0000"
+"P2","Header 4","TopLayer","HDR1X4","23.4000","-0.0080","180","Header, 4-Pin","0.0000"
+"P1","Header 5","TopLayer","HDR1X5","40.0000","10.0250","90","Header, 5-Pin","0.0000"
+"TX","LED_BLUE","TopLayer","LED0603","32.5180","7.4783","180","=description","0.0000"
+"RX","LED_YELLOW","TopLayer","LED0603","32.5180","4.9383","180","=description","0.0000"
+"R5","1K 5% 0603(1608)","TopLayer","RESC0603(1608)_L","16.5000","5.9690","270","1K 0.1W 5% 0603 (1608 Metric)  SMD","0.6000"
+"R4","270","TopLayer","RES0603","28.2500","7.1400","180","","0.3500"
+"R3","270","TopLayer","RES0603","28.2500","9.4260","180","","0.3500"
+"R2","47K5 1% 0603(1608)","TopLayer","RESC0603(1608)_N","8.5401","2.5560","270","47K5 0.1W 1% 0603 (1608 Metric)  SMD","0.6000"
+"R1","22K1 1% 0603(1608)","TopLayer","RESC0603(1608)_N","10.2921","2.5000","90","22K1 0.1W 1% 0603 (1608 Metric)  SMD","0.6000"
+"uUSB","ZX62D-B-5P8","TopLayer","HIRO-ZX62D-B-5P8_V","0.8890","9.1440","270","Right Angle Receptacle Connector, Micro USB, 30 V(AC), -30 to 85 degC, 5-Pin SMD, RoHS, Tape and Reel","2.6500"
+"D1","SP0503BAHTG","TopLayer","LFUS-SOT143-4_V","6.5000","10.4440","270","TVS Diode Array, 30 pF, 30 KV, -40 to 85 degC, 4-Pin SOT143, RoHS, Tape and Reel","1.2200"
+"C4","CAP 100nF 10V 0603(1608)","TopLayer","CAPC0603(1608)100_N","8.7100","5.2715","360","CAP 100nF 10V ±20% 0603 (1608 Metric) Thickness 1mm SMD","1.0000"
+"C3","CAP 4.7uF 10V 0603(1608)","TopLayer","CAPC0603(1608)100_M","8.2600","7.3010","360","CAP 4.7uF 10V ±20% 0603 (1608 Metric) Thickness 1mm SMD","1.0000"
+"C2","CAP 100nF 10V 0603(1608)","TopLayer","CAPC0603(1608)100_N","12.5000","5.5000","90","CAP 100nF 10V ±20% 0603 (1608 Metric) Thickness 1mm SMD","1.0000"
+"C1","CAP 4.7uF 10V 0603(1608)","TopLayer","CAPC0603(1608)100_M","14.5000","5.3940","90","CAP 4.7uF 10V ±20% 0603 (1608 Metric) Thickness 1mm SMD","1.0000"
